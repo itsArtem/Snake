@@ -1,0 +1,11 @@
+﻿  Application.cpp
+  Snake.cpp
+  AboutMenuState.cpp
+  GameOverState.cpp
+  GameplayState.cpp
+  MainMenuState.cpp
+  PauseMenuState.cpp
+  TextureCache.cpp
+  Main.cpp
+  Generating Code...
+  Snake.vcxproj -> C:\Users\Its_a\Development\Repos\Snake\\Output\Debug\x64\Snake.exe

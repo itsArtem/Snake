@@ -1,0 +1,4 @@
+﻿  Application.cpp
+  Main.cpp
+  Generating Code...
+C:\Users\Its_a\Development\Repos\Snake\Source\Application.cpp(43): error C4716: 'Application::operator=': must return a value
